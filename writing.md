@@ -18,5 +18,5 @@ title: Writing
 
 ## Freelance clips
 * [Preventing over-fertilization for better crop quality and yield, Teralytic Blog](https://blog.teralytic.com/preventing-over-fertilization/)
-* ["How microbes make soils - and crops - healthier, Teralytic Blog"](https://blog.teralytic.com/soil-microbes/)
+* [How microbes make soils - and crops - healthier, Teralytic Blog](https://blog.teralytic.com/soil-microbes/)
 * [The business case for building soil health, Teralytic Blog](https://blog.teralytic.com/business-case-soil-health/)
