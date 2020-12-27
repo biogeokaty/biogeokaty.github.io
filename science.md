@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Science
 slug: /work
 items:
   - title: Orange cats
