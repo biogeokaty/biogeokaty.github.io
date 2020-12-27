@@ -12,7 +12,7 @@ I am an ecosystem scientist and writer whose work focuses on illuminating the ta
 
 Currently, I am a postdoctoral scholar at the University of Montana with [Cory Cleveland](https://www.cfc.umt.edu/research/biogeochemistry/), where I help lead the [INCyTE Research Coordination Network](https://www.cfc.umt.edu/research/incyte/default.php). INCyTE is an NSF-funded research coordination network focusing on improving Earth system models (aka how we predict future climate change!) by more accurately representing the cycling of nutrients like nitrogen and phosphorus.
 
-I also love to write (sometimes about science)! In summer 2020, I had the amazing opportunity to sharpen my communication skills as a science reporter at The Wichita Eagle, in Wichita KS, through the AAAS Mass Media Fellowship.
+I love to write (sometimes even about science)! In summer 2020, I had the amazing opportunity to sharpen my communication skills as a science reporter at The Wichita Eagle, in Wichita KS, through the AAAS Mass Media Fellowship.
 
 Previously, I worked with [Kate Scow](http://scowlab.lawr.ucdavis.edu/) (UC Davis) and [Debbie Bossio](https://www.nature.org/en-us/about-us/who-we-are/our-people/deborah-bossio/) (The Nature Conservancy) to better characterize how soil biology and management affect carbon sequestration. I completed my Ph.D. in Soils & Biogeochemistry in 2018 at UC Davis in [Ben Houlton's](https://www.bzhoulton.com) lab. My dissertation research focused on a variety of plant-soil-microbe interactions in the terrestrial nitrogen cycle.
 
