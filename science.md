@@ -13,6 +13,11 @@ items:
       src: /assets/img/work/nitrogen.png
       alt: nitrogen
     description: My dissertation research focused on diverse biogeochemical interactions between organisms large and small. Some favorite projects include investigating how weathering of nitrogen-rich rocks affects soil microbial processes, and how nitrogen-fixing trees alter soil metal cycling (through the <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505127">NSF GRIP program</a>).
+  - title: Feminist methodologies for evaluating environmental education
+    image:
+      src: /assets/img/work/goals.png
+      alt: goals
+    description: As part of my work with <a href="www.girlsoutdoorscience.com">GOALS at UC Davis</a>, I've helped develop research frameworks to study transformative experiences in environmental education in ways that center relationships, care, and community knowledge.   
   - title: Soil carbon storage and data-driven climate policy
     image:
       src: /assets/img/work/microbe.png
