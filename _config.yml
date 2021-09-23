@@ -15,15 +15,14 @@ header:
       slug: /
     - name: Science
     - name: Writing
-    - name: Blog
     - name: Grant Resources
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: katherine[dot]dynarski[at]umontana.edu
-      link: mailto:katherine.dynarski@umontana.edu
+      value: katy[dot]dynarski[at]gmail.com
+      link: mailto:katy.dynarski@gmail.com
 
   follow:
     - name: Twitter
