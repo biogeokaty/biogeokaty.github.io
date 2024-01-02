@@ -7,7 +7,12 @@ items:
     image:
       src: /assets/img/work/globe.png
       alt: globe
-    description: I help lead the <a href="https://www.cfc.umt.edu/research/incyte/default.php">INCyTE Research Coordination Network</a>, a group of biogeoscientists working to improve nutrient cycling representation in Earth system models. I am also a part of a working group at the <a href="https://www.usgs.gov/center-news/new-powell-center-funded-project-global-terrestrial-synthesis-biological-nitrogen?qt-news_science_products=1#qt-news_science_products">USGS Powell Center</a> focused on improving estimates of global nitrogen fixation rates, patterns, and controls.
+    description: From 2020-2021, I led the <a href="https://www.cfc.umt.edu/research/incyte/default.php">INCyTE Research Coordination Network</a>, a group of biogeoscientists working to improve nutrient cycling representation in Earth system models. I was also a part of a working group at the <a href="https://www.usgs.gov/center-news/new-powell-center-funded-project-global-terrestrial-synthesis-biological-nitrogen?qt-news_science_products=1#qt-news_science_products">USGS Powell Center</a> focused on improving estimates of global nitrogen fixation rates, patterns, and controls.
+  - title: Soil carbon storage and data-driven climate policy
+    image:
+      src: /assets/img/work/microbe.png
+      alt: microbe
+    description: Storing carbon in soils via sustainable agricultural practices is promoted as a means of climate change mitigation, but will it work? As a postdoc at UC Davis/The Nature Conservancy, I explored the role of soil microbes in building soil carbon and what that means for the longevity of soil carbon sequestered through agricultural management practices.
   - title: Plant-soil-microbe interactions in the nitrogen cycle
     image:
       src: /assets/img/work/nitrogen.png
@@ -18,11 +23,6 @@ items:
       src: /assets/img/work/goals.png
       alt: goals
     description: As part of my work with <a href="www.girlsoutdoorscience.com">GOALS at UC Davis</a>, I've helped develop research frameworks to study transformative experiences in environmental education in ways that center relationships, care, and community knowledge.   
-  - title: Soil carbon storage and data-driven climate policy
-    image:
-      src: /assets/img/work/microbe.png
-      alt: microbe
-    description: Storing carbon in soils via sustainable agricultural practices is promoted as a means of climate change mitigation, but will it work? As a postdoc at UC Davis/The Nature Conservancy, I explored the role of soil microbes in building soil carbon and what that means for the longevity of soil carbon sequestered through agricultural management practices.
   - title: Peatland ecology and biogeochemistry
     image:
       src: /assets/img/work/bog.png
