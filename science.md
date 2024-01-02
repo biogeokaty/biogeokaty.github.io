@@ -33,3 +33,5 @@ My research currently focuses on biophysical mechanisms of soil carbon storage f
 
 My CV is [here]({{ site.baseurl }}/assets/dynarski_cv.pdf). Full-text copies of my research articles are available on my [ResearchGate](https://www.researchgate.net/profile/Katherine_Dynarski) profile.
 
+Past work:
+
